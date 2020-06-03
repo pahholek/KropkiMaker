@@ -3,11 +3,13 @@ Tomasz Brak 2020 KropkiMaker
 
 
 **URUCHOMIENIE:**
+
 1.Otwórz folder z aplikacją
 
 2.Wybierz Czy posiadasz 32 czy 64 bitowy system operacyjny i zgodnie z tym wyborem otwórz odpowiedni folder
 
 3. Kliknij 2 razy w KropkiMaker.exe
+
 
 **OBSŁUGA:**
 Klikaj kolejno w ekran w wybranych punktach powinieneś zauważyć linie
