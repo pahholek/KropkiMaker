@@ -34,6 +34,8 @@ Klawiatura
 
 Mysz
 
+Oprogramowanie zdolne do otworzenia pliku RAR
+
 
 **SOURCE-CODE:**
 
